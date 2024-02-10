@@ -8,8 +8,8 @@
 </p>
  <b>
  <p align="center">
-  <b>Cursando 6to semestre de la carrera, tengo participación en lagunos concursos de programación.
-  interesado en aprender más acerca de como mejorar y conocer nuevas tecnologias</b>
+  <b>Cursando 6.º semestre de la carrera, tengo participación en algunos concursos de programación.
+  Interesado en aprender más acerca de como mejorar y conocer nuevas tecnologías.</b>
 
  <p align= "center">
   💞️
