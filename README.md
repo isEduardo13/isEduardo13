@@ -9,10 +9,11 @@
  <b>
  <p align="center">
   <b>Cursando 6.º semestre de la carrera, tengo participación en algunos concursos de programación.
-  Interesado en aprender más acerca de como mejorar y conocer nuevas tecnologías.</b>
+
+  Interesado en aprender más acerca de como mejorar programando y conocer nuevas tecnologías.</b>
 
  <p align= "center">
-  💞️
+  💞️M
   <p align= "center">
   
 
