@@ -6,12 +6,15 @@
     </i><br>
     <br />
 </p>
- 👀 I’m interested in ...
- 🌱 I’m currently learning ...
- 💞️ I’m looking to collaborate on ...
- 📫 How to reach me ...
-  😄 Pronouns: ...
- ⚡ Fun fact: ...
+ <b>
+ <p align="center">
+  <b>Cursando 6to semestre de la carrera, tengo participación en lagunos concursos de programación.
+  interesado en aprender más acerca de como mejorar y conocer nuevas tecnologias</b>
+
+ <p align= "center">
+  💞️
+  <p align= "center">
+  
 
 <!---
 isEduardo13/isEduardo13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
