@@ -13,7 +13,7 @@
   Interesado en aprender más acerca de como mejorar programando y conocer nuevas tecnologías.</b>
 
  <p align= "center">
-  💞️M
+  💞️
   <p align= "center">
   
 
