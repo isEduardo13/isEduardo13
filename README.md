@@ -59,6 +59,9 @@ public class Eduardo {
     String lookingFor =
         "Building impactful software with great teams.";
 }
+```
+
+---
 
 ## ⚙️ Tech Stack
 
@@ -93,11 +96,17 @@ public class Eduardo {
 
 <p align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=isEduardo13&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="165" src="https://streak-stats.demolab.com?user=isEduardo13&theme=github-dark&hide_border=true"/>
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isEduardo13&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -106,7 +115,3 @@ public class Eduardo {
 - 💼 **LinkedIn:** https://linkedin.com/in/iseduardo13
 - 📧 **Email:** eduardoisidroh13@gmail.com
 - 🌎 **GitHub:** https://github.com/isEduardo13
-<!---
-isEduardo13/isEduardo13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
